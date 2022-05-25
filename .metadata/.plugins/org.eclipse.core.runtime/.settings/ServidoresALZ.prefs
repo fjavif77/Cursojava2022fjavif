@@ -1,0 +1,5 @@
+KEY_DESTINO_SERVIDORES_ALZ_LOCAL=C\:\\IBM\\Servidores_ALZ\\Servidores_ALZ\\jboss\\
+KEY_DESTINO_SERVIDORES_ALZ_LOCAL_7=C\:\\IBM\\Servidores_ALZ\\Servidores_ALZ\\jboss_7\\
+KEY_ORIGEN_SERVIDORES_ALZ=\\\\ntfileserver\\Oficina ID y Soporte\\Publico\\servidores_alz\\jboss\\
+KEY_ORIGEN_SERVIDORES_ALZ_7=\\\\ntfileserver\\Oficina ID y Soporte\\Publico\\servidores_alz\\jboss_eap7\\
+eclipse.preferences.version=1

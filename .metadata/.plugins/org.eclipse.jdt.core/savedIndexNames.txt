@@ -1,0 +1,20 @@
+INDEX VERSION 1.130+C:\cursojava_2022\Cursojava2022fjavif\.metadata\.plugins\org.eclipse.jdt.core
+195011888.index
+1346528903.index
+3431209050.index
+3018124883.index
+62501479.index
+2058086951.index
+2308079377.index
+2781277358.index
+1151518849.index
+1813157930.index
+4208429170.index
+714721482.index
+3082360597.index
+3748565024.index
+2925864349.index
+976226474.index
+8002061.index
+1830119953.index
+332956795.index
